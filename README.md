@@ -1,5 +1,13 @@
 # uCode
 ## Kick-off
+### C -- Useful links
+
+Материал по C: 
+1. [The C Book](https://publications.gbdirect.co.uk//c_book/the_c_book.pdf) — Подробный гайд по C
+2. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)  — Расширенный Cheat Sheet
+3. [Набор разный шпаргалок](https://www.rankred.com/useful-c-cheat-sheets/) 
+4. [Awesome C](https://github.com/aleksandar-todorovic/awesome-c)  — Список полезной информации от А-Я
+
 ### C -- notes 00
 
 Переменные и строки
